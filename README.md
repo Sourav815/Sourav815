@@ -1,4 +1,4 @@
-- ![image](https://user-images.githubusercontent.com/81064770/232533011-97747690-8edc-4808-869b-9c7d284c154d.png)<h1>Myself~SOURAV BHUNIA</h1>
+ ![image](https://user-images.githubusercontent.com/81064770/232533011-97747690-8edc-4808-869b-9c7d284c154d.png)<h1>Myself~SOURAV BHUNIA</h1>
 - 🌱 currently Studing in Computer Science and Engineering from Jalpaiguri Govt. Engineering College;
 - <h3>💞️ I’m actively looking for Full-Stack Web Development</h3>
 - 📫 To reach me , ![gamil](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) souravbhunia162@gmail.com; <br>
